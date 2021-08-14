@@ -7,3 +7,5 @@
 - [o] 챕터6 
 - [o] 챕터7 
 - [o] 챕터8
+
+![과제물 캡처](https://user-images.githubusercontent.com/81899084/129459306-980cd974-fd40-4ccd-8915-17911757fda3.PNG)
